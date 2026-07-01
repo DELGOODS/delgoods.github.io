@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "DDX2G33B45.nl.delgoods.myfantasy",
+        "paths": ["/myfantasy-app/*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["DDX2G33B45.nl.delgoods.myfantasy"]
+  }
+}
