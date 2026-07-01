@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "nl.delgoods.myfantasy",
+      "sha256_cert_fingerprints": [
+        "73:E2:59:B5:69:99:F6:C8:D7:6C:C2:FA:D1:E1:F7:46:06:4C:68:1E:57:B4:44:7C:CA:E9:27:86:25:CF:56:AE",
+        "C7:7D:5F:BE:40:BF:EC:3F:E7:30:2E:5D:54:CE:EA:86:8F:FB:C8:A3:BC:B3:76:53:21:C5:D6:D8:F0:C5:9A:AB"
+      ]
+    }
+  }
+]
